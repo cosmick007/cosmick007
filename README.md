@@ -186,7 +186,7 @@
 </p>
 </details>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev qoutes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Contacts
