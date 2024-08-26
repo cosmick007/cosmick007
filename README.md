@@ -258,5 +258,3 @@
 
 ### ✍️ Dev qoutes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
