@@ -203,6 +203,20 @@
 </tr>
 </table>
 <br><br>
+  
+## Github Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Cosmick005&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmick005&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
+  </a>
+  
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=SoftStar116&column=7&theme=light"/>
+</p>
+</p>
+</details>
+
+## Contacts
 <div align="center"> 
    <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
