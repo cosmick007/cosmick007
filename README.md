@@ -163,5 +163,54 @@
       <br><b>Next.js</b>
     </td>
  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/svelte-icon.svg" width="48" height="48" alt="Angular" />
+    <br>Svelte
+  </td>
+      <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="48" height="48" alt="Nodejs" />
+    <br>Backbone.js
+    </td>
+  <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="PHP" />
+    <br>Redis
+  </td>
+          <td align="center" width="96">
+      <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="VsCode" />
+    <br>React Native
+  </td>
+            <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="WordPress" />
+    <br><b>Express.js</b>
+  </td>
+            <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="48" height="48" alt="Vue" />
+    <br>.NET
+  </td>
+            <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Sass" />
+    <br>Firebase
+  </td>
+            <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="MySQL" />
+    <br><b>Heroku</b>
+  </td>
+  <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="PostgreSQL" />
+    <br><b>Next.js</b>
+  </td>
+</tr>
 </table>
 <br><br>
+<div align="center"> 
+   <a href="mailto:darkhorse941019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  &nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  &nbsp;&nbsp;
+ 
+</div>
