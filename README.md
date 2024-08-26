@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @cosmick007
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django / RoR** **(--- I love REACT ---)**
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications
+- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
